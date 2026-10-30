@@ -1,0 +1,10 @@
+{
+	"id": "neuron-auto-linker",
+	"name": "Neuron Auto Linker",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Automatically create connections across your vault by propagating links based on note names and aliases.",
+	"author": "Mudit",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
